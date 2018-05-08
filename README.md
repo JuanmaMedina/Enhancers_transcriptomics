@@ -1,4 +1,1 @@
-# Project-X
-Bioinformatics projects
-
-This repository holds some of my personal projects in Bioinformatics.
+Some code used to analyze and deconvolute the enhancer / promoter activity within Drosophila melanogaster genome
